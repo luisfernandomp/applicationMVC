@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\aulaMVC\bin\Debug\netcoreapp3.1\aulaMVC.exe
+C:\Users\HOME\Documents\aulaMVC\bin\Debug\netcoreapp3.1\aulaMVC.deps.json
+C:\Users\HOME\Documents\aulaMVC\bin\Debug\netcoreapp3.1\aulaMVC.runtimeconfig.json
+C:\Users\HOME\Documents\aulaMVC\bin\Debug\netcoreapp3.1\aulaMVC.runtimeconfig.dev.json
+C:\Users\HOME\Documents\aulaMVC\bin\Debug\netcoreapp3.1\aulaMVC.dll
+C:\Users\HOME\Documents\aulaMVC\bin\Debug\netcoreapp3.1\aulaMVC.pdb
+C:\Users\HOME\Documents\aulaMVC\obj\Debug\netcoreapp3.1\aulaMVC.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\aulaMVC\obj\Debug\netcoreapp3.1\aulaMVC.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\aulaMVC\obj\Debug\netcoreapp3.1\aulaMVC.AssemblyInfo.cs
+C:\Users\HOME\Documents\aulaMVC\obj\Debug\netcoreapp3.1\aulaMVC.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\aulaMVC\obj\Debug\netcoreapp3.1\aulaMVC.dll
+C:\Users\HOME\Documents\aulaMVC\obj\Debug\netcoreapp3.1\aulaMVC.pdb
+C:\Users\HOME\Documents\aulaMVC\obj\Debug\netcoreapp3.1\aulaMVC.genruntimeconfig.cache

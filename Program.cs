@@ -1,4 +1,5 @@
 ﻿using System;
+using aulaMVC.Controllers;
 
 namespace aulaMVC
 {
@@ -6,7 +7,8 @@ namespace aulaMVC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ProdutoController produto = new ProdutoController();
+            produto.Listar();
         }
     }
 }
