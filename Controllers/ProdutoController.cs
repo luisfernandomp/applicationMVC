@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using aulaMVC.Models;
 using aulaMVC.Views;
 
@@ -9,6 +10,11 @@ namespace aulaMVC.Controllers
 
         public void Listar(){
             produtoView.MostrarConsole( produtoModel.Ler() );
+        }
+        public void Filtrar(string _preco){
+            List<Produto> lista = produtoModel.Ler();
+            lista = lista.FindAll(x => x.Preco == float.Parse(_preco));
+            produtoView.MostrarConsole(lista);
         }
     }
 }

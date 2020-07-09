@@ -9,7 +9,7 @@ namespace aulaMVC.Views
         public void MostrarConsole(List<Produto> prod){
             foreach (var item in prod)
             {
-                Console.WriteLine($"Preco: {item.Preco} - Nome: {item.Nome}");
+                Console.WriteLine($"Código: {item.Codigo} Preco: {item.Preco} - Nome: {item.Nome}");
             }
         }
     }

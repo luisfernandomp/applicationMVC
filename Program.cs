@@ -8,7 +8,7 @@ namespace aulaMVC
         static void Main(string[] args)
         {
             ProdutoController produto = new ProdutoController();
-            produto.Listar();
+            produto.Filtrar("34,6");
         }
     }
 }
